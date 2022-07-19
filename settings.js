@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281315017916'] //ur owner number
-global.ownername = "Khalif" //ur owner name
+global.vcardowner = ['6287824899711'] //ur owner number
+global.ownername = "Leo" //ur owner name
 global.ytname = "Khalif135GM" //ur yt chanel name
-global.socialm = "GitHub: Alif135" //ur github or insta name
-global.location = "Indonesia, Sulawesi Tengah, Palu" //ur location
+global.socialm = "GitHub: LeoPyth" //ur github or insta name
+global.location = "Indonesia, Banten, Serang" //ur location
 
 //bot bomdy 
-global.owner = ['6281315017916']
-global.ownertag = '6281315017916' //ur tag number
-global.botname = 'BOTz' //ur bot name
+global.owner = ['6287824899711']
+global.ownertag = '6287824899711' //ur tag number
+global.botname = 'Izumi-MD' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/Alif135/CheemsBot-MD4' //script link
+global.botscript = 'https://github.com/LeoPyth/Zipy' //script link
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "👍" //ur theme emoji
-global.packname = "Khalif" //ur sticker watermark packname
-global.author = "6281315017916" //ur sticker watermark author
+global.packname = "Leo" //ur sticker watermark packname
+global.author = "62887824899711" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
